@@ -4,7 +4,8 @@
 		"particle": "block/bookshelf",
 		"basic": "block/bookshelf",
 		"var1": "block/bookshelf1",
-		"planks": "block/oak_planks"
+		"planks": "block/oak_planks",
+		"inner": "block/bookshelf_inner"
 	},
 	"elements": [
 		{
@@ -13,10 +14,10 @@
 			"to": [15.01, 16.01, 15.01],
 			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 1]},
 			"faces": {
-				"north": {"uv": [1, 0, 15, 16], "texture": "#var1"},
-				"east": {"uv": [1, 0, 15, 16], "texture": "#var1"},
-				"south": {"uv": [1, 0, 15, 16], "texture": "#var1"},
-				"west": {"uv": [1, 0, 15, 16], "texture": "#var1"}
+				"north": {"uv": [1, 0, 15, 16], "texture": "#inner"},
+				"east": {"uv": [1, 0, 15, 16], "texture": "#inner"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#inner"},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#inner"}
 			}
 		},
 		{
