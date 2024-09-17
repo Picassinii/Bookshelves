@@ -2,7 +2,8 @@
     "variants": {
         "": [
             { "model": "block/bookshelf0" },
-			{ "model": "block/bookshelf1" }
+			{ "model": "block/bookshelf1" },
+			{ "model": "block/bookshelf2" }
         ]
     }
 }
