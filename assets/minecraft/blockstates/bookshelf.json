@@ -4,7 +4,8 @@
             { "model": "block/bookshelf0" },
 			{ "model": "block/bookshelf1" },
 			{ "model": "block/bookshelf2" },
-			{ "model": "block/bookshelf3" }
+			{ "model": "block/bookshelf3" },
+			{ "model": "block/bookshelf4" }
         ]
     }
 }
