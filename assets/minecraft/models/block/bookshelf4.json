@@ -351,10 +351,8 @@
 			"faces": {
 				"north": {"uv": [6, 2, 8, 7], "texture": "#var4"},
 				"east": {"uv": [6, 2, 7, 7], "texture": "#var4"},
-				"south": {"uv": [0, 0, 2, 5], "texture": "#missing"},
 				"west": {"uv": [7, 2, 8, 7], "texture": "#var4"},
-				"up": {"uv": [8, 2, 6, 3], "texture": "#var4"},
-				"down": {"uv": [0, 0, 2, 1], "texture": "#missing"}
+				"up": {"uv": [8, 2, 6, 3], "texture": "#var4"}
 			}
 		},
 		{
@@ -542,11 +540,9 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7, 7.5]},
 			"faces": {
 				"north": {"uv": [6, 2, 7, 7], "texture": "#var4"},
-				"east": {"uv": [0, 0, 2, 5], "texture": "#missing"},
 				"south": {"uv": [7, 2, 8, 7], "texture": "#var4"},
 				"west": {"uv": [6, 2, 8, 7], "texture": "#var4"},
-				"up": {"uv": [8, 2, 6, 3], "rotation": 270, "texture": "#var4"},
-				"down": {"uv": [0, 0, 2, 1], "rotation": 90, "texture": "#missing"}
+				"up": {"uv": [8, 2, 6, 3], "rotation": 270, "texture": "#var4"}
 			}
 		},
 		{
@@ -733,12 +729,10 @@
 			"to": [8, 14, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7, 15.5]},
 			"faces": {
-				"north": {"uv": [0, 0, 2, 5], "texture": "#missing"},
 				"east": {"uv": [7, 2, 8, 7], "texture": "#var4"},
 				"south": {"uv": [6, 2, 8, 7], "texture": "#var4"},
 				"west": {"uv": [6, 2, 7, 7], "texture": "#var4"},
-				"up": {"uv": [8, 2, 6, 3], "rotation": 180, "texture": "#var4"},
-				"down": {"uv": [0, 0, 2, 1], "rotation": 180, "texture": "#missing"}
+				"up": {"uv": [8, 2, 6, 3], "rotation": 180, "texture": "#var4"}
 			}
 		},
 		{
@@ -928,9 +922,7 @@
 				"north": {"uv": [7, 2, 8, 7], "texture": "#var4"},
 				"east": {"uv": [6, 2, 8, 7], "texture": "#var4"},
 				"south": {"uv": [6, 2, 7, 7], "texture": "#var4"},
-				"west": {"uv": [0, 0, 2, 5], "texture": "#missing"},
-				"up": {"uv": [8, 2, 6, 3], "rotation": 90, "texture": "#var4"},
-				"down": {"uv": [0, 0, 2, 1], "rotation": 270, "texture": "#missing"}
+				"up": {"uv": [8, 2, 6, 3], "rotation": 90, "texture": "#var4"}
 			}
 		},
 		{
