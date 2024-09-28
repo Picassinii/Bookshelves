@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Created by Picassinii using Blockbench",
 	"textures": {
 		"basic": "block/bookshelf",
 		"var3": "block/bookshelf3",
@@ -159,8 +159,8 @@
 		},
 		{
 			"name": "bar1",
-			"from": [-0.01, -0.01, -0.01],
-			"to": [1.01, 16.01, 1.01],
+			"from": [-0.02, -0.02, -0.02],
+			"to": [1.02, 16.02, 1.02],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 8, 0.5]},
 			"faces": {
 				"north": {"uv": [15, 0, 16, 16], "texture": "#basic", "cullface": "west"},
@@ -171,8 +171,8 @@
 		},
 		{
 			"name": "bar2",
-			"from": [14.99, -0.01, -0.01],
-			"to": [16.01, 16.01, 1.01],
+			"from": [14.98, -0.02, -0.02],
+			"to": [16.02, 16.02, 1.02],
 			"rotation": {"angle": 0, "axis": "y", "origin": [15, 0, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 16], "texture": "#basic", "cullface": "east"},
@@ -183,8 +183,8 @@
 		},
 		{
 			"name": "bar3",
-			"from": [14.99, -0.01, 14.99],
-			"to": [16.01, 16.01, 16.01],
+			"from": [14.98, -0.02, 14.98],
+			"to": [16.02, 16.02, 16.02],
 			"rotation": {"angle": 0, "axis": "y", "origin": [15, 0, 15]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 16], "texture": "#basic", "cullface": "south"},
@@ -195,8 +195,8 @@
 		},
 		{
 			"name": "bar4",
-			"from": [-0.01, -0.01, 14.99],
-			"to": [1.01, 16.01, 16.01],
+			"from": [-0.02, -0.02, 14.98],
+			"to": [1.02, 16.02, 16.02],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 15]},
 			"faces": {
 				"north": {"uv": [15, 0, 16, 16], "texture": "#basic", "cullface": "south"},
